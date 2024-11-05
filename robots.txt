@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://osataeye.github.io/CHY/sitemap_index.txt
+Sitemap: https://osataeye.github.io/DVH/sitemap_index.txt
+Sitemap: https://osataeye.github.io/NtW/sitemap_index.txt
+Sitemap: https://osataeye.github.io/Txr/sitemap_index.txt
